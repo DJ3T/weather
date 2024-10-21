@@ -17,6 +17,7 @@ A simple Discord bot that provides real-time weather information for a specified
 - Python 3.10 or higher
 - `discord.py` library
 - `requests` library
+- `asyncio`library
 
 ## Installation
 
@@ -66,5 +67,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 3. Push to the branch (git push origin feature/YourFeature).
 4. Create a new Pull Request.
 
+## License
+This project is licensed under the MIT License. See the LICENSE file for more information.
 
-
+## Acknowledgments
+OpenWeatherMap for the weather data API.
+Discord.py for the Discord bot framework.
