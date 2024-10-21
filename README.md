@@ -23,7 +23,7 @@ A simple Discord bot that provides real-time weather information for a specified
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/weather-bot.git
+   git clone https://github.com/DJ3T/weather-bot
    cd weather-bot
 2. **Install required packages:**
    ```bash
