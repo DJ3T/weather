@@ -25,18 +25,17 @@ A simple Discord bot that provides real-time weather information for a specified
    git clone https://github.com/yourusername/weather-bot.git
    cd weather-bot
    
-Install required packages:
-   ```bash
-   pip install -r requirements.txt
-   Set up environment variables:
+2. **Install required packages:**
+```bash
+pip install -r requirements.txt
+Set up environment variables:
 ```
-
-Create a .env file in the root directory and add your tokens:
+3. **Edit the python file to replace the API key and the discord bot token**
 
 DISCORD_TOKEN = your_discord_bot_token
 WEATHER_API_KEY = your_openweathermap_api_key
 
-Run the bot:
+4. **Run the bot:**
 ```bash
-   python weather_bot.py
+python weather_bot.py
 ```
