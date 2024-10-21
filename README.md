@@ -44,7 +44,6 @@ A simple Discord bot that provides real-time weather information for a specified
 
 Usage
 To get the weather information for a city, use the command:
-
    ```bash
    !weather <city_name>
    ```
