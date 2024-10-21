@@ -40,3 +40,32 @@ A simple Discord bot that provides real-time weather information for a specified
    ```bash
    python weather_bot.py
    ```
+
+
+Usage
+To get the weather information for a city, use the command:
+
+   ```bash
+   !weather <city_name>
+   ```
+
+## Example:
+   ```bash
+   !weather New York
+   ```
+The bot will respond with the current weather conditions for the specified city.
+
+## Cooldown
+To prevent spam, the weather command has a cooldown of 20 seconds. If the command is used again before the cooldown period ends, the bot will respond with a message indicating how much time remains.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+## Fork the repository.
+1. Create a new branch (git checkout -b feature/YourFeature).
+2. Make your changes and commit them (git commit -m 'Add your message').
+3. Push to the branch (git push origin feature/YourFeature).
+4. Create a new Pull Request.
+
+
+
