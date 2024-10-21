@@ -38,7 +38,9 @@ A simple Discord bot that provides real-time weather information for a specified
 When setting up your Discord bot, make sure to grant the following permissions:
 
 ✉️ Send Messages: Allows the bot to send weather updates in the channel.
+
 📖 Read Messages: Enables the bot to read user commands.
+
 🔗 Embed Links: Allows the bot to send rich embedded messages with formatting.
 
 4. **Run the bot:**
