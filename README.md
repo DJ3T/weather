@@ -26,9 +26,10 @@ A simple Discord bot that provides real-time weather information for a specified
    cd weather-bot
    
 Install required packages:
-
-pip install -r requirements.txt
-Set up environment variables:
+   ```bash
+   pip install -r requirements.txt
+   Set up environment variables:
+```
 
 Create a .env file in the root directory and add your tokens:
 
@@ -36,5 +37,6 @@ DISCORD_TOKEN = your_discord_bot_token
 WEATHER_API_KEY = your_openweathermap_api_key
 
 Run the bot:
-
-python weather_bot.py
+```bash
+   python weather_bot.py
+```
