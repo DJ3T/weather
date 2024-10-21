@@ -49,7 +49,7 @@ To get the weather information for a city, use the command:
    The bot will respond with the current weather conditions for the specified city.
 
 ## Cooldown
-To prevent spam, the weather command has a cooldown of 20 seconds. ⏳ If the command is used again before the cooldown period ends, the bot will respond with a message indicating how much time remains.
+To prevent spam and to stay within the limit of 100 free requests per minutes, the weather command has a cooldown of 20 seconds. ⏳ If the command is used again before the cooldown period ends, the bot will respond with a message indicating how much time remains. If it's for personal use or if you don't mind paying, you can edit the python file.
 
 ## Contributing 🤝
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
