@@ -44,6 +44,7 @@ When setting up your Discord bot, make sure to grant the following permissions:
 🔗 Embed Links: Allows the bot to send rich embedded messages with formatting.
 
 4. **Run the bot:**
+   
    ```bash
    python weather_bot.py
 
