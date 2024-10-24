@@ -22,13 +22,16 @@ A simple Discord bot that provides real-time weather information for a specified
 ## Installation
 
 1. **Clone the repository:**
+   
    ```bash
    git clone https://github.com/DJ3T/weather-bot
    cd weather-bot
 2. **Install required packages:**
+   
    ```bash
    pip install -r requirements.txt
 3. **Set up environment variables:** Edit the Python file to replace the API key and the Discord bot token:
+   
    ```bash
    DISCORD_TOKEN = 'your_discord_bot_token'
    
