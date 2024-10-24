@@ -29,7 +29,7 @@ A simple Discord bot that provides real-time weather information for a specified
    ```bash
    pip install -r requirements.txt
 3. **Set up environment variables:** Edit the Python file to replace the API key and the Discord bot token:
-
+   ```bash
    DISCORD_TOKEN = 'your_discord_bot_token'
    
    WEATHER_API_KEY = 'your_openweathermap_api_key'
